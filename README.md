@@ -186,10 +186,6 @@ Proxy adresini `127.0.0.1`, portu `8849` olarak ayarlayın.
 
 Bu yapılandırma yalnızca eklediğiniz uygulamaları etkiler. Başka bir uygulamayı proxy üzerinden çalıştırmak isterseniz onun da kuralını ekleyebilirsiniz.
 
-### Discord ses bağlantısı
-
-UDP desteği sayesinde Discord'un ses bağlantısı da çalışabilir. Bunun için WSL2'nin ağ modunun **Mirrored** olması ve GOST'un SOCKS5 proxy'sinin UDP aktarımını destekleyecek şekilde çalıştırılması gerekir.
-
 ---
 
 ## Özet
